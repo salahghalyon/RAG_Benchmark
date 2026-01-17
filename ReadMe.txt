@@ -20,6 +20,7 @@ langchain
 sklearn
 
 
-Made Assumption(s): 
+Overview: 
+
 
 We evaluate five open-source Large Language Models (LLMs): Llama3.3, Llama3.1, Qwen2.5, Command R7b, and DeepSeek R1, across four knowledge domains: History, Law, Management, and Science. Our hybrid evaluation framework integrates standard lexical metrics (Precision, Recall, F1-Score) with a novel semantic assessment using an LLM-based evaluator to simulate human judgment of answer correctness
